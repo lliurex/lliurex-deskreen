@@ -2,7 +2,7 @@
 
 	"type":"mix",
 
-	"pkg_list": [{"name":"deskreen","custom_name":"Deskreen","custom_icon":"deskreen.png","type":"apt"}],
+	"pkg_list": [{"name":"deskreen","custom_name":"Deskreen","custom_icon":"lliurex-deskreen.png","type":"apt"}],
 
 	"script": {"name":"/usr/share/lliurex-deskreen/lliurex-deskreen_script", "remove":true},
 	
