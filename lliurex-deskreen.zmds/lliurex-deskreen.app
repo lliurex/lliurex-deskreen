@@ -1,0 +1,17 @@
+Name=Lliurex Deskreen
+Name[es]=Lliurex Deskreen
+Name[en]=Lliurex Deskreen
+Name[qcv]=Lliurex Deskreen
+Name[ca_ES]=Lliurex Deskreen
+Comment=Turn any device into a secondary screen for your computer
+Comment[es]=Convierte cualquier dispositivo en una pantalla secundaria para tu computadora
+Comment[qcv]=Converteix qualsevol dispositiu en una pantalla secundària per a la teua computadora
+Comment[ca_ES]=Converteix qualsevol dispositiu en una pantalla secundària per a la teua computadora
+Icon=lliurex-deskreen
+Groups=sudo;admins;
+Category=Software
+ScriptPath=lliurex-deskreen.zmd
+Using=pkexec
+Service=False
+Modal=True
+Locks=lliurex-deskreen
