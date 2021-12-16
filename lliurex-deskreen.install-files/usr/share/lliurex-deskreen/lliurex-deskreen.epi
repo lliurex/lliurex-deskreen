@@ -8,9 +8,7 @@
 	
 	"zomando":"lliurex-deskreen",
 
-	"custom_icon_path":"/usr/share/lliurex-deskreen/",
-
-	"selection_enabled":{"active":true,"all_selected":false}
+	"custom_icon_path":"/usr/share/lliurex-deskreen/"
 
 
 	}
