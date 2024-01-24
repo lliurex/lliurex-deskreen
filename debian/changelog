@@ -1,3 +1,9 @@
+zero-lliurex-deskreen (0.2.23) jammy; urgency=medium
+
+  * first jammy release
+
+ -- Hector Garcia Huerta <hectorgh@gmail.com>  Wed, 24 Jan 2024 10:57:32 +0100
+
 zero-lliurex-deskreen (0.2) lliurex22; urgency=medium
 
   * Allow teachers 
